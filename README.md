@@ -1,2 +1,2 @@
 # Crypto App
-Crypto app made using an CoinGecko API, Axios and Tailwind CSS.
+A simple crypto app made with CoinGecko API, Axios and Tailwind CSS.
